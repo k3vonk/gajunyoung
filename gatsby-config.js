@@ -2,9 +2,9 @@ module.exports = {
   pathPrefix: "/gajunyoung",
   siteMetadata: {
     title: `Ga Jun Young | Software Engineer`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    description: `Personal portfolio`,
+    author: `Ga Jun Young`,
+    siteUrl: `https://k3vonk.github.io/gajunyoung/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
