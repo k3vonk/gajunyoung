@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 const Header = () => {
     return (
         <>
-            <Navbar fixed="top" expand="md" bg="dark" variant="dark">
+            <Navbar collapseOnSelect className="py-4" fixed="top" expand="md" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand>
                         <Link to="/" className="variant-dark">Ga Jun Young</Link>
