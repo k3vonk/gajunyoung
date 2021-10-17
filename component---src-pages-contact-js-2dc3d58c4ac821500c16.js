@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgajunyoung=self.webpackChunkgajunyoung||[]).push([[501],{262:function(e,t,n){n.r(t);var a=n(7294),l=n(5444),c=n(3469),u=n(3751);t.default=function(){return a.createElement(c.Z,null,a.createElement(u.Z,{title:"Contact"}),a.createElement("h1",null,"Hi from the Contact page"),a.createElement("p",null,"Welcome to page Contact"),a.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-2dc3d58c4ac821500c16.js.map

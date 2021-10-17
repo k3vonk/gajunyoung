@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgajunyoung=self.webpackChunkgajunyoung||[]).push([[678],{7704:function(e,n,l){l.r(n);var t=l(7294),u=l(3469),a=l(3751);n.default=function(){return t.createElement(u.Z,null,t.createElement(a.Z,{title:"Home"}),t.createElement("p",null,"Hellooo..., I'm"),t.createElement("p",null,"Ga Jun Young"),t.createElement("p",null,"Software Engineer | Fencer"),t.createElement("p",null,"I love to smile, laugh, and code."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-09c53689710364e2257f.js.map

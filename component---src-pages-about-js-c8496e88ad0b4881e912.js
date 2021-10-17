@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgajunyoung=self.webpackChunkgajunyoung||[]).push([[682],{5518:function(e,t,n){n.r(t);var u=n(7294),l=n(5444),a=n(3469),o=n(3751);t.default=function(){return u.createElement(a.Z,null,u.createElement(o.Z,{title:"About"}),u.createElement("h1",null,"Hi from the About page"),u.createElement("p",null,"Welcome to page About"),u.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-c8496e88ad0b4881e912.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgajunyoung=self.webpackChunkgajunyoung||[]).push([[25],{8994:function(e,t,n){n.r(t);var o=n(7294),l=n(5444),a=n(3469),u=n(3751);t.default=function(){return o.createElement(a.Z,null,o.createElement(u.Z,{title:"Portfolio"}),o.createElement("h1",null,"Hi from the portfolio page"),o.createElement("p",null,"Welcome to page portfolio"),o.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-portfolio-js-0b3b248b53027b15feb9.js.map
